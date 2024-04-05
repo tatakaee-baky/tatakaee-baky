@@ -1,5 +1,5 @@
-👋
-- Hi, I’m Jubair Al Baky.
+- Hi
+- I’m Jubair Al Baky.
 - Studying Computer Science at Brac University.
 - I’m interested in Data Science.
 - I’m currently learning DSA,Ml,Ai
