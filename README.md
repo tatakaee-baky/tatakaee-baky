@@ -1,6 +1,6 @@
 - 👋
 - Hi, I’m Jubair Al Baky.
-- Studying Computer Science in Brac University.
+- Studying Computer Science at Brac University.
 - I’m interested in Data Science.
 - I’m currently learning DSA,Ml,Ai
 - Pronouns: He/Him
